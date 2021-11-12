@@ -7,8 +7,8 @@
 <br>
 <a id="about"></a>
 
-## :pencil: About the project GoFinances
+## :closed_lock_with_key: About the project GuardarSenha
 
-<strong>GoFinances</strong> is a development project <strong>mobile</strong>. It is an app to help people manage their spend in a simple and secure way.
+<strong>GuardarSenha</strong> is a development project <strong>mobile</strong>.
 
 <br>  
